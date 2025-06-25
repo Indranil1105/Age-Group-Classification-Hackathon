@@ -83,13 +83,14 @@ text
 ## How to Run
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/age-group-classification-hackathon.git
+git clone [https://github.com/Indranil1105/Age-Group-Classification-Hackathon.git](https://github.com/Indranil1105/Age-Group-Classification-Hackathon.git)
+
 cd age-group-classification-hackathon
 
 
-2. **Add the dataset files** (`train.csv`, `test.csv`, `sample-submission.csv`) to the project directory.
+3. **Add the dataset files** (`train.csv`, `test.csv`, `sample-submission.csv`) to the project directory.
 
-3. **Run the main script:**
+4. **Run the main script:**
 python main.py
 
 
